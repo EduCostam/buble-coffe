@@ -15,7 +15,7 @@ const Header = () => {
             <button className='btn btn-primary'>Conheça</button>
         </div>
     <Image src='/leaf1.png' alt='folha' width={320} height={460} className={styles.leaf1} />
-    <Image src='/coffee.png' alt='folhas de cafe' width={260} height={260} className={styles.leaf1} />
+    <Image src='/coffee.png' alt='folhas de cafe' width={260} height={260} className={styles.coffee} />
     <Image src='/leaf2.png' alt='folha' width={400} height={520} className={styles.leaf2} />
     <Image src='/flower.png' alt='flor' width={260} height={260} className={styles.flower} />
     </header>;
